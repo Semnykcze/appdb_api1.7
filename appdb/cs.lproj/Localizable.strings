@@ -1,0 +1,508 @@
+/*
+  File: Localizable.strings
+  Project: appDB unofficial client 
+  Version: 1.2.0
+
+  Description:
+  This file contains Czech localized strings used throughout the application.
+
+  Created by Semnykcze on 25/04/2025.
+  Last modified by Semnykcze on 25/04/2025.
+
+ */
+
+/////////////////////
+//  APPDB RELATED  //
+/////////////////////
+
+"We do not host any prohibited content. All data is publicly available via iTunes API." = "Nehostujeme žádný zakázaný obsah. Veškerá data jsou veřejně dostupná prostřednictvím iTunes API.";
+
+//////////////////////
+//  TAB BAR TITLES  //
+//////////////////////
+
+"Featured" = "Doporučené";
+"Search" = "Hledat";
+"Downloads" = "Stahování";
+"Settings" = "Nastavení";
+"Updates" = "Aktualizace";
+
+//////////////////////
+//    NETWORKING    //
+//////////////////////
+
+"Cannot connect" = "Nelze se připojit";
+"Retry" = "Zkusit znovu";
+"Waiting..." = "Čekání...";
+"Checking..." = "Kontrola...";
+"Operation has been cancelled." = "Operace byla zrušena.";
+
+//////////////////////
+//    CATEGORIES    //
+//////////////////////
+
+"All Categories" = "Všechny kategorie";
+"Categories" = "Kategorie";
+"Select Category" = "Vybrat kategorii";
+"iOS" = "iOS";
+"Cydia" = "Cydia";
+"Books" = "Knihy";
+
+/////////////////////////////
+//    FEATURED SECTIONS    //
+/////////////////////////////
+
+"Custom Apps" = "Vlastní aplikace";
+"New and Noteworthy" = "Nové a zajímavé";
+"Top Paid" = "Nejlépe placené";
+"Popular This Week" = "Populární tento týden";
+"Best Games" = "Nejlepší hry";
+"Top Books" = "Nejlepší knihy";
+"See All" = "Zobrazit vše";
+"News" = "Novinky";
+"Settings" = "Nastavení";
+"System Status" = "Stav systému";
+
+//////////////////////////
+//     APPS & BOOKS     //
+//////////////////////////
+
+"Description" = "Popis";
+"What's New" = "Co je nového";
+"Tweaked Version Notice" = "Upozornění na upravenou verzi";
+"This app was tweaked to provide additional features. Be sure to download it from verified crackers only, because no one except them can guarantee that it doesn't contain any malicious code." = "Tato aplikace byla upravena tak, aby poskytovala další funkce. Ujistěte se, že ji stahujete pouze od ověřených crackerů, protože nikdo jiný než oni nemůže zaručit, že neobsahuje žádný škodlivý kód.";
+"iPad only" = "Pouze pro iPad";
+"Information" = "Informace";
+"Downloads" = "Stahování";
+"Seller" = "Prodejce";
+"Developer" = "Vývojář";
+"Category" = "Kategorie";
+"Price" = "Cena";
+"Updated" = "Aktualizováno";
+"Version" = "Verze";
+"Compatibility" = "Kompatibilita";
+"Size" = "Velikost";
+"Language" = "Jazyk";
+"Languages" = "Jazyky";
+"Bundle ID" = "Bundle ID";
+"Author" = "Autor";
+"Print Length" = "Délka tisku";
+"Requirements" = "Požadavky";
+"Rating" = "Hodnocení";
+"Developer Apps" = "Aplikace vývojáře";
+"Developer Website" = "Web vývojáře";
+"Developer Support" = "Podpora vývojáře";
+"More by this author" = "Další od tohoto autora";
+"Unknown" = "Neznámý";
+"See Original" = "Zobrazit originál";
+"Details" = "Podrobnosti";
+"Reviews" = "Recenze";
+"Download" = "Stáhnout";
+"Install" = "Instalovat";
+"Requesting..." = "Požadavek...";
+"Requested" = "Požadováno";
+"by" = "od";
+"Related Apps" = "Související aplikace";
+"Related Books" = "Související knihy";
+"Reviews are from Apple's iTunes Store ©" = "Recenze jsou z obchodu Apple iTunes Store ©";
+"Check out '%@' on appdb!" = "Podívejte se na '%@' na appdb!";
+"Installation has been queued to your device" = "Instalace byla zařazena do fronty pro vaše zařízení";
+"Installation options" = "Možnosti instalace";
+"Duplicate app" = "Duplikovat aplikaci";
+"New ID" = "Nové ID";
+"New display name" = "Nový zobrazovaný název";
+"Select Dylibs, Frameworks or Debs" = "Vybrat Dyliby, Frameworky nebo Deby";
+"Use Original" = "Použít originál";
+"Cracked by %@" = "Cracked od %@";
+"Uploaded by %@" = "Nahráno od %@";
+"Cracked and uploaded by %@" = "Cracked a nahráno od %@";
+"Recently Uploaded" = "Nedávno nahráno";
+"Popular Today" = "Populární dnes";
+"Popular This Week" = "Populární tento týden";
+"Popular This Month" = "Populární tento měsíc";
+"Popular This Year" = "Populární letos";
+"Popular All Time" = "Populární celkově";
+"Any Price" = "Jakákoli cena";
+"Paid" = "Placené";
+"Waiting %@ seconds..." = "Čekání %@ sekund...";
+
+// Download stats
+"%@ today" = "%@ dnes";
+"%@ this week" = "%@ tento týden";
+"%@ this month" = "%@ tento měsíc";
+"%@ this year" = "%@ letos";
+"%@ total" = "%@ celkem";
+
+//////////////////////////////////
+//     DEVICE LINK TUTORIAL     //
+//////////////////////////////////
+
+"Authorization" = "Autorizace";
+"Authorize App" = "Autorizovat aplikaci";
+"Is your device already linked to appdb? You can check if you have appdb profile installed at Settings -> General -> Profiles." = "Je vaše zařízení již propojeno s appdb? Můžete zkontrolovat, zda máte nainstalovaný profil appdb v Nastavení -> Obecné -> Profily.";
+"Continue" = "Pokračovat";
+"Enter Link Code" = "Zadejte kód propojení";
+"Enter link code here" = "Zadejte kód propojení zde";
+"Please enter a valid email address." = "Prosím, zadejte platnou e-mailovou adresu.";
+"Paste the 8 digits case sensitive link code you see on this page:" = "Vložte 8místný kód propojení (rozlišující velká a malá písmena), který vidíte na této stránce:";
+"Go Back" = "Zpět";
+"Enter Email" = "Zadejte e-mail";
+"Please enter your email address below and click Continue. You will be redirected to the Settings app where you can proceed with appdb profile installation." = "Prosím, zadejte níže svou e-mailovou adresu a klikněte na Pokračovat. Budete přesměrováni do aplikace Nastavení, kde můžete pokračovat v instalaci profilu appdb.";
+"Success" = "Úspěch";
+"Well done! This app is now authorized to install apps on your device." = "Výborně! Tato aplikace je nyní autorizována k instalaci aplikací na vašem zařízení.";
+"Start using appdb!" = "Začněte používat appdb!";
+"Unable to complete" = "Nelze dokončit";
+"Yes, already linked" = "Ano, již propojeno";
+"No, not yet linked" = "Ne, zatím nepropojeno";
+"name@example.com" = "jmeno@priklad.com";
+"Deauthorization" = "Deautorizace";
+"Deauthorized" = "Deautorizováno";
+"Are you sure you want to deauthorize this app from installing apps on your device?\n\nNOTE: This won't unlink your device from appdb. To do so, remove its profile in Settings -> General -> Profiles." = "Jste si jisti, že chcete deautorizovat tuto aplikaci od instalace aplikací na vašem zařízení?\n\nPOZNÁMKA: Tímto se vaše zařízení neodpojí od appdb. Chcete-li tak učinit, odeberte jeho profil v Nastavení -> Obecné -> Profily.";
+"App was deauthorized successfully." = "Aplikace byla úspěšně deautorizována.";
+
+////////////////////
+//     SEARCH     //
+////////////////////
+
+"Search iOS Apps" = "Hledat iOS aplikace";
+"Search Custom Apps" = "Hledat vlastní aplikace";
+"Search Books" = "Hledat knihy";
+"Trending iOS Apps" = "Trendující iOS aplikace";
+"Trending Cydia Apps" = "Trendující Cydia aplikace";
+"Trending Books" = "Trendující knihy";
+"No results found" = "Nenalezeny žádné výsledky";
+"No results were found for '%@'" = "Nenalezeny žádné výsledky pro '%@'";
+"Please search at least two characters" = "Prosím, zadejte alespoň dva znaky pro hledání";
+"Search News" = "Hledat novinky";
+
+///////////////////////
+//     DOWNLOADS     //
+///////////////////////
+
+"Queued" = "Ve frontě";
+"Library" = "Knihovna";
+"Downloading" = "Stahování";
+"No queued downloads"  = "Žádné stahování ve frontě";
+"File download has started" = "Stahování souboru bylo zahájeno";
+"Enter URL" = "Zadejte URL";
+"Enter below the URL of the .ipa file you want to download" = "Níže zadejte URL souboru .ipa, který chcete stáhnout";
+"https://example.com/file.ipa" = "https://priklad.com/soubor.ipa";
+"Load" = "Načíst";
+"Uploaded on %@" = "Nahráno dne %@"; // e.g. Uploaded on %date%
+"Pause" = "Pozastavit";
+"Paused" = "Pozastaveno";
+"Resume" = "Pokračovat";
+"Stop" = "Zastavit";
+"Install without signing" = "Instalovat bez podepsání";
+"Upload to MyAppStore" = "Nahrát do MyAppStore";
+"Open in..." = "Otevřít v...";
+"Rename" = "Přejmenovat";
+"Rename File" = "Přejmenovat soubor";
+"Delete" = "Smazat";
+"Delete all" = "Smazat vše";
+"No Local IPAs Found" = "Nenalezeny žádné lokální IPA";
+"Use iTunes File Sharing or import them from other apps" = "Použijte sdílení souborů přes iTunes nebo je importujte z jiných aplikací";
+"No MyAppStore apps" = "Žádné aplikace v MyAppStore";
+"This is your personal IPA library! Apps you upload over time will appear here" = "Toto je vaše osobní knihovna IPA! Aplikace, které nahrajete, se zde časem objeví";
+"Please cancel any pending uploads before deleting local files" = "Před smazáním lokálních souborů prosím zrušte všechna čekající nahrávání";
+"Delete 1 file?" = "Smazat 1 soubor?";
+"Local Files" = "Lokální soubory";
+"Are you sure you want to delete %@ files?" = "Jste si jisti, že chcete smazat %@ souborů?"; // %@ is the number of files to delete
+"Place your local .ipa (or .zip) files in the documents directory, either using iTunes File Sharing, the Files app or import them from other apps.\n\nPath to the documents directory:\n\n%@" = "Umístěte své lokální soubory .ipa (nebo .zip) do adresáře dokumentů, buď pomocí sdílení souborů přes iTunes, aplikace Soubory nebo je importujte z jiných aplikací.\n\nCesta k adresáři dokumentů:\n\n%@";
+"appdb presents MyAppStore - your own AppStore. A brand new custom app installer transformed into your personal IPA library!\n\n• Save your personal apps to appdb\n• Shared across all your devices under the same email\n• Store apps up to 4GB\n• Upload multiple apps at once\n\nTo get started, click on a local IPA and select 'Upload to MyAppStore'" = "appdb představuje MyAppStore - váš vlastní AppStore. Zcela nový vlastní instalátor aplikací transformovaný do vaší osobní knihovny IPA!\n\n• Ukládejte své osobní aplikace do appdb\n• Sdílené napříč všemi vašimi zařízeními pod stejným e-mailem\n• Ukládejte aplikace až do 4 GB\n• Nahrávejte více aplikací najednou\n\nChcete-li začít, klikněte na lokální IPA a vyberte 'Nahrát do MyAppStore'";
+"No active downloads" = "Žádné aktivní stahování";
+"Remove from list" = "Odebrat ze seznamu";
+"File downloaded successfully" = "Soubor úspěšně stažen";
+"File downloaded successfully, added to Library" = "Soubor úspěšně stažen, přidán do knihovny";
+"Uploading %@ of %@ (%@)" = "Nahrávání %@ z %@ (%@)"; // e.g. "Uploading 1.2 MB of 3 MB (33%)"
+"Uploading" = "Nahrávání"; // please use same translation used above, before first %@
+"Downloading %@ of %@ (%@)" = "Stahování %@ z %@ (%@)"; // e.g. "Downloading 7.4 MB of 15.2 MB (49%)"
+"Downloading %@" = "Stahování %@"; // e.g. "Downloading 3 MB"
+"Downloading" = "Stahování"; // please use same translation used above, before %@
+"File uploaded successfully" = "Soubor úspěšně nahrán";
+
+//////////////////////
+//     SETTINGS     //
+//////////////////////
+
+"Device Configuration" = "Konfigurace zařízení";
+"Link Code" = "Kód propojení";
+"Jailbroken w/ Appsync" = "Jailbreakováno s Appsync";
+"Compatibility Checks" = "Kontroly kompatibility";
+"Ask for installation options" = "Zeptat se na možnosti instalace";
+"Deauthorize" = "Deautorizovat";
+"User Interface" = "Uživatelské rozhraní";
+"Choose Theme" = "Vybrat téma";
+"Choose Language" = "Vybrat jazyk";
+"Language set, please restart the app to apply changes" = "Jazyk nastaven, prosím restartujte aplikaci pro uplatnění změn";
+"Dark" = "Tmavé";
+"Darker" = "Tmavší";
+"Light" = "Světlé";
+"Support" = "Podpora";
+"Visit appdb forum" = "Navštívit fórum appdb";
+"About" = "O aplikaci";
+"Acknowledgements" = "Poděkování";
+"General" = "Obecné";
+"Device" = "Zařízení";
+"Authorize App" = "Autorizovat aplikaci";
+"Authorize app with link code from appdb website and enjoy unlimited app installs!" = "Autorizujte aplikaci pomocí kódu propojení z webových stránek appdb a užijte si neomezenou instalaci aplikací!";
+"PLUS Status" = "Stav PLUS";
+"Signing" = "Podepisování";
+"Choose Enterprise Certificate" = "Vybrat podnikový certifikát";
+"%@ signs left until %@" = "Zbývá %@ podpisů do %@";
+"Use this code if you want to link new devices to appdb. Press and hold the cell to copy it, or tap it to generate a new one." = "Použijte tento kód, pokud chcete propojit nová zařízení s appdb. Stiskněte a podržte buňku pro zkopírování, nebo na ni klepněte pro vygenerování nového.";
+"Device Status" = "Stav zařízení";
+"To fully unlink your device from appdb remove its profile in Settings -> General -> Profiles." = "Chcete-li plně odpojit své zařízení od appdb, odeberte jeho profil v Nastavení -> Obecné -> Profily.";
+"Active" = "Aktivní";
+"Inactive" = "Neaktivní";
+"Expires on %@" = "Platnost vyprší dne %@";
+"Clear command queue?" = "Vymazat frontu příkazů?";
+"Clear" = "Vymazat";
+"Fix" = "Opravit"; // as in fix command from device status
+"Disabled" = "Zakázáno"; // as in 'PRO disabled'
+"Revoked" = "Zrušeno";
+"Revoked on %@" = "Zrušeno dne %@";
+"Show badge for updates" = "Zobrazit odznak pro aktualizace";
+"Change bundle id before upload" = "Změnit bundle ID před nahráním";
+"Changing bundle identifier before uploading to MyAppStore might be useful when working with multiple versions of the same app." = "Změna identifikátoru balíčku před nahráním do MyAppStore může být užitečná při práci s více verzemi stejné aplikace.";
+"New bundle id" = "Nové bundle ID";
+"Tap to generate random" = "Klepnutím vygenerujte náhodné";
+"Overwrite file" = "Přepsat soubor";
+"Bundle ID Change" = "Změna bundle ID";
+"Change" = "Změnit";
+"Changing bundle id..." = "Změna bundle ID...";
+"Available Languages" = "Dostupné jazyky";
+"Available Themes" = "Dostupná témata";
+"Tap to know more" = "Klepnutím zjistíte více";
+"Contact Developer" = "Kontaktovat vývojáře";
+"Choose an option" = "Vyberte možnost";
+"Select a service" = "Vyberte službu";
+"Email" = "E-mail";
+"Telegram" = "Telegram";
+"Could not find email service." = "Nelze najít e-mailovou službu.";
+"Follow System Appearance" = "Sledovat vzhled systému";
+"Automatically switch between light and dark theme based on System Appearance. To switch to the Darker theme instead, just manually select it once.\n\nNOTE: If you're experiencing issues (theme not switching automatically or mixed themes) just close the app from multitasking and reopen it." = "Automaticky přepínat mezi světlým a tmavým tématem na základě vzhledu systému. Chcete-li místo toho přepnout na tmavší téma, stačí jej jednou ručně vybrat.\n\nPOZNÁMKA: Pokud se vyskytnou problémy (téma se automaticky nepřepíná nebo smíšená témata), stačí aplikaci zavřít z multitaskingu a znovu ji otevřít.";
+"Advanced Options" = "Pokročilé možnosti";
+"Check Revocation" = "Zkontrolovat zrušení";
+"Email Link Code" = "E-mailový kód propojení";
+"List apps managed by appdb" = "Seznam aplikací spravovaných appdb";
+"Your Custom Developer Identity has not been revoked!" = "Vaše vlastní vývojářská identita nebyla zrušena!";
+"Enter below the email address where the link code will be sent:" = "Níže zadejte e-mailovou adresu, na kterou bude zaslán kód propojení:";
+"Email was sent successfully!" = "E-mail byl úspěšně odeslán!";
+"Apps managed by appdb" = "Aplikace spravované appdb";
+"Bundle IDs" = "Bundle ID";
+"Only apps that are managed by appdb will appear here." = "Zde se zobrazí pouze aplikace spravované appdb.";
+"Custom Developer Identity" = "Vlastní vývojářská identita";
+"Copy" = "Kopírovat";
+"Clear developer identity" = "Vymazat vývojářskou identitu";
+"Are you sure you want to clear developer identity?" = "Jste si jisti, že chcete vymazat vývojářskou identitu?";
+"Identity cleared!" = "Identita vymazána!";
+"Patch in-app Purchases" = "Patch in-app nákupy";
+"Preserve Entitlements Comments" = "Zachovat komentáře k oprávněním";
+"Disable Revocation Checks" = "Zakázat kontroly zrušení";
+"Force Disable PRO" = "Vynutit zakázání PRO";
+"For Psychic Paper exploit" = "Pro exploit Psychic Paper";
+"Clear Cache" = "Vymazat mezipaměť";
+"Cached IPAs" = "IPy v mezipaměti";
+"IPA cache status for current device" = "Stav mezipaměti IPA pro aktuální zařízení";
+"The cached IPA was deleted successfully" = "IPa v mezipaměti byla úspěšně smazána";
+"appdb saves all installed IPA files for your device to cache, so you can easily restore all your apps after device reset or revocation. Cache is stored per device, and will be deleted if you will unlink your device. If you restored your device and missing appdb profile, you can visit device status page and tap \"Update profile\" button to install it, or link device via email by tapping \"Just link new device\" in message from appdb.\n\nNote: IPA files does not contain app data, if you want to keep your app data, backup device via Finder or iTunes, Remove revoked apps, Install apps from cache and then restore backup from Finder or iTunes." = "appdb ukládá všechny nainstalované soubory IPA pro vaše zařízení do mezipaměti, abyste mohli snadno obnovit všechny své aplikace po resetování zařízení nebo zrušení. Mezipaměť je uložena pro každé zařízení zvlášť a bude smazána, pokud své zařízení odpojíte. Pokud jste obnovili své zařízení a chybí vám profil appdb, můžete navštívit stránku stavu zařízení a klepnout na tlačítko \"Aktualizovat profil\" pro jeho instalaci, nebo propojit zařízení e-mailem klepnutím na \"Jen propojit nové zařízení\" ve zprávě od appdb.\n\nPoznámka: Soubory IPA neobsahují data aplikací, pokud chcete svá data aplikací zachovat, zálohujte zařízení přes Finder nebo iTunes, odeberte zrušené aplikace, nainstalujte aplikace z mezipaměti a poté obnovte zálohu z Finderu nebo iTunes.";
+"Are you sure you want to clear app cache?\n\nNOTE: This will not deauthorize the app, and your device will still be linked to appdb." = "Jste si jisti, že chcete vymazat mezipaměť aplikací?\n\nPOZNÁMKA: Tímto se aplikace nedeautorizuje a vaše zařízení zůstane propojeno s appdb.";
+"Cache cleared successfully!" = "Mezipaměť úspěšně vymazána!";
+"Failed to clear cache: %@." = "Nepodařilo se vymazat mezipaměť: %@.";
+"Enable Game Trainer" = "Povolit Game Trainer";
+"Choose Device" = "Vybrat zařízení";
+"Available Devices" = "Dostupná zařízení";
+"Switched to %@" = "Přepnuto na %@";
+"Enable Push Notifications" = "Povolit push notifikace";
+"Remove Plugins" = "Odebrat pluginy";
+"Available Icons" = "Dostupné ikony";
+"Choose Icon" = "Vybrat ikonu";
+"Opt-out from emails" = "Odhlásit se z e-mailů";
+"Signing Type" = "Typ podepisování";
+"In Update" = "Při aktualizaci";
+"Reinstall everything" = "Přeinstalovat vše";
+"Clear IPA cache" = "Vymazat mezipaměť IPA";
+"Re-validate IPA cache" = "Znovu ověřit mezipaměť IPA";
+
+
+/////////////////////
+//       PLUS      //
+/////////////////////
+"Most Reliable Signing Certificate + Service guarantee for 1 year + Instant Activation!" = "Nejspolehlivější podpisový certifikát + záruka služby na 1 rok + okamžitá aktivace!";
+"Guaranteed 1 year signing certificates" = "Garantované podpisové certifikáty na 1 rok";
+"Public Free Enterprise Certificates (frequent revokes and device blacklists)" = "Veřejné bezplatné podnikové certifikáty (časté zrušení a černé listiny zařízení)";
+
+"Available PLUS subscriptions" = "Dostupná předplatná PLUS";
+"Purchase PLUS" = "Zakoupit PLUS";
+"Pay by" = "Zaplatit pomocí";
+"excl. VAT" = "bez DPH";
+"What is appdb PLUS?" = "Co je appdb PLUS?";
+"appdb PLUS allows you to use appdb on non-jailbroken device or Apple Silicon Mac with your own developer account and sign apps in the cloud without any limitations\n\nPLUS is activated per device, separately for each of your devices\n\nWe use this money to pay for servers, traffic, and support the community\n\nPLUS is not transferable between devices, you can cancel it at any time, or we will notify your about existing subscription for unlinked device, so you can cancel it if you sold your device\n\nPLUS is not compatible with corporate-owned devices with MDM. Please use appdb on your personal devices" = "appdb PLUS vám umožňuje používat appdb na zařízení bez jailbreaku nebo na Macu s Apple Silicon s vlastním vývojářským účtem a podepisovat aplikace v cloudu bez jakýchkoli omezení\n\nPLUS je aktivován pro každé zařízení zvlášť, pro každé vaše zařízení\n\nTyto peníze používáme na platby za servery, provoz a podporu komunity\n\nPLUS není přenosný mezi zařízeními, můžete jej kdykoli zrušit, nebo vás upozorníme na stávající předplatné pro odpojené zařízení, abyste jej mohli zrušit, pokud jste své zařízení prodali\n\nPLUS není kompatibilní se zařízeními vlastněnými firmou s MDM. Používejte appdb na svých osobních zařízeních";
+
+/////////////////////
+//     ALTSTORE    //
+/////////////////////
+"AltStore Repos" = "AltStore Repozitáře";
+"Please enter repository URL" = "Prosím, zadejte URL repozitáře";
+"Repository URL" = "URL repozitáře";
+"Add repo" = "Přidat repozitář";
+"%@ Apps" = "%@ aplikací";
+"Search Apps" = "Hledat aplikace";
+"No repos found" = "Nenalezeny žádné repozitáře";
+"The repository was deleted successfully" = "Repozitář byl úspěšně smazán";
+
+/////////////////////
+//      DYLIBS     //
+/////////////////////
+"My Dylibs, Frameworks and Debs" = "Mé Dyliby, Frameworky a Deby";
+"No dylibs found" = "Nenalezeny žádné dyliby";
+"The dylib was deleted successfully" = "Dylib byl úspěšně smazán";
+"Here you can upload or import dynamic libraries, frameworks or debian packages or ZIP archives with tweaks to inject into apps that you are installing via appdb. Uploading or importing of any file will enable "Ask for Installation Options" feature for current device, so you can choose what tweaks you want to include in the app. You can disable this option later on device features configuration page.\n\nPlease note that not all packages, dylibs or frameworks that were built for jailbroken devices will work on your non-jailbroken devices." = "Zde můžete nahrát nebo importovat dynamické knihovny, frameworky nebo balíčky debian nebo ZIP archivy s tweaky, které se mají vkládat do aplikací, které instalujete přes appdb. Nahrání nebo import jakéhokoli souboru povolí funkci „Zeptat se na možnosti instalace" pro aktuální zařízení, takže si můžete vybrat, které tweaky chcete do aplikace zahrnout. Tuto možnost můžete později zakázat na stránce konfigurace funkcí zařízení.\n\nUpozorňujeme, že ne všechny balíčky, dyliby nebo frameworky, které byly vytvořeny pro zařízení s jailbreakem, budou fungovat na vašich zařízeních bez jailbreaku.";
+
+/////////////////////
+//     UPDATES     //
+/////////////////////
+
+"Ignore" = "Ignorovat";
+"No updates found" = "Nenalezeny žádné aktualizace";
+"Please authorize app from Settings first" = "Nejprve prosím autorizujte aplikaci v Nastavení";
+"%@ Updateable app" = "%@ aplikace k aktualizaci";  // e.g. 1 Updateable app
+"%@ Updateable apps" = "%@ aplikací k aktualizaci"; // e.g. 6 Updateable apps
+"%@ Non updateable app" = "%@ aplikace nelze aktualizovat";
+"%@ Non updateable apps" = "%@ aplikací nelze aktualizovat";
+"Non Updateable Apps" = "Nelze aktualizovat aplikace";
+"Ignored" = "Ignorováno";
+"Ignored Updates" = "Ignorované aktualizace";
+"No ignored updates" = "Žádné ignorované aktualizace";
+"Apps installed from an external source, like the App Store or OTA distribution, can not be updated via appdb because of security limitations. We respect this!\n\nTo update these apps, please remove and reinstall them from appdb.\n\nTo hide these updates, swipe left on any of them and select 'Ignore'." = "Aplikace nainstalované z externího zdroje, jako je App Store nebo distribuce OTA, nelze aktualizovat přes appdb kvůli bezpečnostním omezením. Toto respektujeme!\n\nChcete-li tyto aplikace aktualizovat, prosím, odeberte je a znovu nainstalujte z appdb.\n\nChcete-li tyto aktualizace skrýt, přejeďte doleva na kterékoli z nich a vyberte 'Ignorovat'.";
+"Swipe left on any update to add it to this list" = "Přejeďte doleva na jakékoli aktualizaci, abyste ji přidali do tohoto seznamu";
+"Update" = "Aktualizovat"; // green UPDATE button
+"Your version: %@" = "Vaše verze: %@";
+"New version: %@" = "Nová verze: %@";
+"Update Available" = "Aktualizace k dispozici";
+"What's New in version %@" = "Co je nového ve verzi %@";
+
+////////////////////
+//     ERRORS     //
+////////////////////
+
+"Maintenance mode active. We will be back soon!" = "Režim údržby aktivní. Brzy se vrátíme!";
+"No links found." = "Nenalezeny žádné odkazy.";
+"Not found" = "Nenalezeno";
+"Couldn't find content with id %@ in our database" = "V naší databázi se nepodařilo najít obsah s ID %@";
+"An error has occurred" = "Došlo k chybě";
+"Invalid link code." = "Neplatný kód propojení.";
+"Invalid email address." = "Neplatná e-mailová adresa.";
+"Link code cannot be empty." = "Kód propojení nemůže být prázdný.";
+"Please enter a valid email address." = "Prosím, zadejte platnou e-mailovou adresu.";
+"No device linked." = "Není propojeno žádné zařízení.";
+"Unable to fetch device token." = "Nelze získat token zařízení.";
+"Use link code instead." = "Místo toho použijte kód propojení.";
+"Oops! Something went wrong. Please try again later." = "Jejda! Něco se pokazilo. Prosím, zkuste to znovu později.";
+"Missing link code or email." = "Chybí kód propojení nebo e-mail.";
+"Could not parse plist file." = "Nelze analyzovat soubor plist.";
+"Device status is empty" = "Stav zařízení je prázdný";
+"The request timed out" = "Čas požadavku vypršel";
+"Your device is not compatible with this app" = "Vaše zařízení není kompatibilní s touto aplikací";
+"Error: malformed url" = "Chyba: chybně formátovaná URL";
+"IPA Not found" = "IPA nenalezena";
+"IPA is missing Payload folder" = "V IPA chybí složka Payload";
+"IPA is missing .app folder" = "V IPA chybí složka .app";
+"IPA is missing Info.plist file" = "V IPA chybí soubor Info.plist";
+"Unable to read contents of Info.plist file" = "Nelze přečíst obsah souboru Info.plist";
+"Unable to encode Info.plist file" = "Nelze kódovat soubor Info.plist";
+"File not found at given path" = "Soubor nenalezen na zadané cestě";
+"Unable to find bundle id in Info.plist" = "Nelze najít bundle ID v Info.plist";
+"File size not found in resource values" = "Velikost souboru nenalezena v hodnotách zdrojů";
+"A report has already been submitted" = "Zpráva již byla odeslána";
+"Installation failed, but can be fixed from Settings -> Device Status" = "Instalace selhala, ale lze ji opravit v Nastavení -> Stav zařízení";
+"An error has occurred: malformed JSON" = "Došlo k chybě: chybně formátovaný JSON";
+"Your PRO subscription has expired." = "Vaše předplatné PRO vypršelo.";
+"Your PRO subscription has been revoked by Apple." = "Vaše předplatné PRO bylo zrušeno společností Apple.";
+"Your device doesn't seem to have a PRO subcription." = "Zdá se, že vaše zařízení nemá předplatné PRO.";
+"App duplication is currently supported on non-jailbroken devices with PRO." = "Duplikace aplikací je v současné době podporována na zařízeních bez jailbreaku s předplatným PRO.";
+"Unknown voucher partner." = "Neznámý partner voucheru.";
+"Invalid voucher." = "Neplatný voucher.";
+"Voucher already used." = "Voucher již použit.";
+"No devices with this email." = "Žádná zařízení s tímto e-mailem.";
+"We’ve got reports reg. this link: \"%@\"" = "Obdrželi jsme zprávy týkající se tohoto odkazu: \"%@\"";
+
+////////////////////////////
+//     LINK REPORTING     //
+////////////////////////////
+
+"Send" = "Odeslat";
+"Report" = "Nahlásit";
+"Reporting a broken link for '%@'." = "Hlášení nefunkčního odkazu pro '%@'.";
+"Enter a reason for your report" = "Zadejte důvod vašeho hlášení";
+"Link reported successfully!" = "Odkaz úspěšně nahlášen!";
+
+/////////////////////
+//     CREDITS     //
+/////////////////////
+
+"Credits" = "Zásluhy";
+"Developer" = "Vývojář";
+"Special Thanks" = "Zvláštní poděkování";
+"Translations" = "Překlady";
+"appdb team" = "tým appdb";
+"Icon and banner designer" = "Návrhář ikon a bannerů";
+"View project on GitHub" = "Zobrazit projekt na GitHubu";
+"Original Developer" = "Původní vývojář";
+"Current Maintainer" = "Současný správce";
+
+/////////////////////////////////////////
+//     WISHES / AUTOMATIC REQUESTS     //
+/////////////////////////////////////////
+
+"Wishes" = "Přání";
+"New" = "Nové";
+"Processing" = "Zpracovává se";
+"Failed" = "Selhalo";
+"Fulfilled" = "Splněno";
+"Free" = "Zdarma";
+"Enter AppStore URL" = "Zadejte URL z AppStore";
+"Enter below the AppStore URL of the app you'd like to request" = "Níže zadejte URL aplikace z AppStore, kterou byste si přáli požádat";
+"Add" = "Přidat";
+"App has been requested successfully!" = "Aplikace byla úspěšně požádána!";
+"Price: %@" = "Cena: %@";
+"Version: %@" = "Verze: %@";
+"No new wishes to show" = "Žádná nová přání k zobrazení";
+"No fulfilled wishes to show" = "Žádná splněná přání k zobrazení";
+
+///////////////////
+//     OTHER     //
+///////////////////
+
+"Cancel" = "Zrušit";
+"Dismiss" = "Zavřít";
+"Yes" = "Ano";
+"OK" = "OK";
+"No" = "Ne";
+"Done" = "Hotovo";
+"more" = "více";
+"Open in Safari" = "Otevřít v Safari";
+"%@s ago" = "před %@s"; // seconds, e.g. 15s ago
+"%@m ago" = "před %@m"; // minutes, e.g. 5m ago
+"%@h ago" = "před %@h"; // hours, e.g. 6h ago
+"%@d ago" = "před %@d"; // days, e.g. 3d ago
+"now" = "nyní";
+
+
+///////////////////
+//     ICONS     //
+///////////////////
+"Main (by aesign)" = "Hlavní (od aesign)";
+"Dark (by stayxnegative)" = "Tmavá (od stayxnegative)";
+"Green" = "Zelená";
+"Purple" = "Fialová";
+"Yellow" = "Žlutá";
+"Pink" = "Růžová";
+"Red" = "Červená";
+"Aqua" = "Aqua";
+"Black" = "Černá";
+
+"Alternate icons seem to not work on this device" = "Zdá se, že alternativní ikony na tomto zařízení nefungují";
+"App icon was set to '%@'" = "Ikona aplikace byla nastavena na '%@'";
+

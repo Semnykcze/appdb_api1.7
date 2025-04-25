@@ -10,8 +10,10 @@ import Alamofire
 import SwiftyJSON
 import Localize_Swift
 
+// CHANGE APPDB API TO 1.7
+
 enum API {
-    static let endpoint = "https://api.dbservices.to/v1.6/"
+    static let endpoint = "https://api.dbservices.to/v1.7/"
     static let statusEndpoint = "https://status.dbservices.to/API/v1.0/"
     static let itmsHelperEndpoint = "https://dbservices.to/manifest.php"
 
